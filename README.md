@@ -1,4 +1,7 @@
 # OOP1-Java-Swing-Aplikacija
+![](https://img.shields.io/badge/gui-swing-orange)
+![](https://img.shields.io/badge/object--orientedted-programming-blue)
+![](https://img.shields.io/badge/pure-java-orange)
 
 Projekat iz predmeta objektno orijentisano programiranje 1 na FTN-u u Novom Sadu.
 
