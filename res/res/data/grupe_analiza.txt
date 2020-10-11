@@ -1,0 +1,13 @@
+1 | Biohemija                     | true
+2 | Enzimi                        | true
+3 | Anemija                       | true
+4 | Dijabetes                     | true
+5 | Hematologija                  | true
+6 | Urin                          | true
+7 | Reproduktivni hormoni         | true
+8 | Elektroliti/Oligoelementi     | true
+9 | Lipidni Status                | true
+10| Virusološka serologija        | true
+11| Bakterijska serologija        | true
+12| Patologija                    | false
+13| Vitamini                      | true

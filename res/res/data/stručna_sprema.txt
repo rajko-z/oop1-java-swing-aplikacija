@@ -1,0 +1,8 @@
+1 | 1.0     | Osnovno obrazovanje
+2 | 1.1     | Stručno osposobljavanje
+3 | 1.2     | Srednje stručno obrazovanje u trajanju od tri godine
+4 | 1.3     | Srednje stručno obrazovanje u trajanju od cetiri godine
+5 | 1.5     | Majstorsko i specijalističko obrazovanje
+6 | 2.0     | Osnovne akademske studije
+7 | 2.5     | Master studije
+8 | 3.6     | Doktorske studije

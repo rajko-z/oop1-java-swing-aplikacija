@@ -1,0 +1,12 @@
+Grupa analize       | Stavka analize         | Donja referentna vrednost | Gornja referenta vrednost | Izmerene vrednost | Jedinica mere
+--------------------|------------------------|---------------------------|---------------------------|-------------------|--------------
+Biohemija           | Kreatin                | 2.3                       | 7.0                       | 11.623            | g/L
+Hematologija        | KKS (5 dif)            | 9.0                       | 21.4                      | 12.362            | %
+Biohemija           | Osmolalitet seruma     | 15.0                      | 23.0                      | 29.183            | g/L
+--------------------|------------------------|---------------------------|---------------------------|-------------------|--------------
+IME PACIJENTA:                 ADAM                
+PREZIME PACIJENTA:             ADAMOVIĆ            
+DA LI JE BILA KUĆNA DOSTAVA:   NIJE           
+UKUPNA CENA SA DOSTAVOM:       800.0          
+--------------------------------------------------------------
+DATUM OBRADE:                  2020-08-16     

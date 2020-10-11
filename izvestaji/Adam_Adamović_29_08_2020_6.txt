@@ -1,0 +1,11 @@
+Grupa analize       | Stavka analize         | Donja referentna vrednost | Gornja referenta vrednost | Izmerene vrednost | Jedinica mere
+--------------------|------------------------|---------------------------|---------------------------|-------------------|--------------
+Dijabetes           | Insulin                | 4.0                       | 32.0                      | 46.698            | g/L
+Dijabetes           | Proinsulin             | 2.2                       | 6.8                       | 3.727             | g/L
+--------------------|------------------------|---------------------------|---------------------------|-------------------|--------------
+IME PACIJENTA:                 ADAM                
+PREZIME PACIJENTA:             ADAMOVIĆ            
+DA LI JE BILA KUĆNA DOSTAVA:   NIJE           
+UKUPNA CENA SA DOSTAVOM:       3200.0         
+--------------------------------------------------------------
+DATUM OBRADE:                  2020-08-18     

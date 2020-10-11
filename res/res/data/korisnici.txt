@@ -1,0 +1,35 @@
+1 | A | Krvoje      | Laboratorović | labi        | labi           
+2 | A | Radenko     | Laboratorović | radenko     | rade733        
+3 | A | Jovanka     | Laboratorović | jovanka     | joka111        
+4 | M | Zorana      | Milenković    | zorkaa      | zoki9988       | 4 | true
+5 | M | Sara        | Joksimović    | sara        | happy123       | 4 | true
+6 | M | Lana        | Bojić         | lana101     | quickiki       | 4 | true
+7 | M | Mila        | Milić         | mila        | mila11         | 4 | true
+8 | M | Selena      | Gomez         | selema      | gomez123       | 3 | true
+9 | M | Milana      | Grujić        | milana      | miki           | 4 | true
+10| M | Jovana      | Jović         | jovana      | jocajoca       | 3 | true
+11| M | Katarina    | Katić         | katarina    | kata123        | 4 | true
+12| L | Nebojša     | Mikić         | nesa00      | nesko123       | 6 | true  | 10,11,12
+13| L | Doktor      | Doktorović    | doca00      | doca00         | 8 | true  | 1,2,3,4,5,6,7,8,9,10
+14| L | Pavle       | Pavlović      | pavle       | paksi22        | 6 | true  | 2,4,5
+15| L | Nikola      | Nestorović    | nikola      | nestor30       | 6 | true  | 5,6,7,8
+16| L | Vasko       | Vasić         | vaske       | vaske123       | 6 | true  | 6,3,1
+17| L | Marko       | Marković      | marko       | marko123       | 7 | true  | 13,9,10,4
+18| L | Luka        | Lukić         | luka        | luki233        | 7 | true  | 2,8,5,13
+19| L | Ivana       | Jović         | ivana       | iva001         | 6 | true  | 3,4,1,10
+20| L | Simon       | Simić         | simon       | simi11         | 7 | true  | 6,8,7,13
+21| L | Srdjana     | Srdić         | srdjana     | srki123        | 6 | true  | 10,12,13
+22| P | Adam        | Adamović      | adam        | adam123        | 0000 | muški  | 1990-08-22  | 0653146230 | Desanke Maksimović 32-Novi Sad
+23| P | Nenad       | Nedić         | nenad       | nenad123       | 2221 | muški  | 1995-12-05  | 0654324630 | Sonćanksi put 21-Novi Sad
+24| P | Dragan      | Dragić        | dragan      | dragan123      | 3322 | muški  | 1980-11-18  | 0654324323 | Ive Andrića 31-Novi Sad
+25| P | Nemanja     | Pavlović      | nemanja     | nemajna123     | 1111 | muški  | 1975-12-29  | 0643242432 | Dositeje Obradovića 25-Novi Sad
+26| P | Milica      | Milić         | milica      | milica123      | 2229 | ženski | 1974-12-21  | 0643432449 | Vuka Karađića 42-Novi Sad
+27| P | Gojko       | Gojković      |             |                | 3333 | muški  | 1968-11-04  | 0665765766 | Desanke Maksimović 78-Novi Sad
+28| P | Mirko       | Mirković      | mirko       | mirko123       | 4444 | muški  | 1988-10-05  | 0656565354 | Radomora Putnika 10-Novi Sad
+29| P | Kristina    | Krstić        | kristina    | kristina123    | 5555 | ženski | 1992-09-01  | 0637673444 | Filipa Kljajića 5-Novi Sad
+30| P | Miroljub    | Mirić         | miroljub    | miroljub123    | 6666 | muški  | 1999-01-06  | 0633545435 | Josićki Put BB-Novi Sad
+31| P | Boško       | Bošković      |             |                | 7777 | muški  | 2002-02-07  | 0633645654 | Filipa Kljajića 2-Novi Sad
+32| P | Aleksandar  | Babić         | aca         | aca123         | 8888 | muški  | 2001-03-11  | 0623642644 | Filipa Kljajića 17-Novi Sad
+33| P | Marina      | Marić         | marina      | marina123      | 9999 | ženski | 1990-07-28  | 0623889876 | Filipa Kljajića 8-Novi Sad
+34| P | Pacijent    | Pacijent      | pacijent.pacijent| pacijent472    | 8887 | muški  | 2020-08-20  | 062134567  | Josipa Kljajica 34
+35| P | lebron      | lebron        | lebron.lebron| lebron116      | 12345678911| muški  | 2020-08-20  | 0653146231 | lakersi

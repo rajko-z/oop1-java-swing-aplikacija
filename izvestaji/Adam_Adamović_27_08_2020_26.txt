@@ -1,0 +1,16 @@
+Grupa analize       | Stavka analize         | Donja referentna vrednost | Gornja referenta vrednost | Izmerene vrednost | Jedinica mere
+--------------------|------------------------|---------------------------|---------------------------|-------------------|--------------
+Anemija             | Eritropoeitin          | 18.0                      | 32.0                      | 29.347            | pg
+Anemija             | Feritin                | 14.0                      | 22.0                      | 8.44              | g/L
+Anemija             | Folna kiselina         | 20.0                      | 30.0                      | 25.37             | pg
+Anemija             | Methemoglobin          | 10.0                      | 20.0                      | 7.946             | g/L
+Hematologija        | Sedimentacija          | 1.0                       | 20.0                      | 34.567            | mm/h
+Hematologija        | Leukociti              | 7.8                       | 21.3                      | 29.05             | g/L
+Hematologija        | Trombociti             | 2.4                       | 8.2                       | 3.769             | g/L
+--------------------|------------------------|---------------------------|---------------------------|-------------------|--------------
+IME PACIJENTA:                 ADAM                
+PREZIME PACIJENTA:             ADAMOVIĆ            
+DA LI JE BILA KUĆNA DOSTAVA:   JESTE
+UKUPNA CENA SA DOSTAVOM:       8340.0         
+--------------------------------------------------------------
+DATUM OBRADE:                  2020-08-24     

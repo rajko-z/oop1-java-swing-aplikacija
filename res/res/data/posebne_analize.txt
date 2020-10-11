@@ -1,0 +1,105 @@
+1  | Urea                  | 1 | 100.0  | 1.0  | 3.0   | g/L    | true
+2  | Kreatin               | 1 | 100.0  | 2.3  | 7.0   | g/L    | true
+3  | Mokraćna kiselina     | 1 | 100.0  | 2.5  | 10.0  | g/L    | true
+4  | Ceruloplazmin         | 1 | 1000.0 | 30.0 | 100.0 | %      | true
+5  | Osmolalitet seruma    | 1 | 850.0  | 15.0 | 23.0  | g/L    | true
+6  | AST(SGOT)             | 2 | 100.0  | 14.0 | 32.0  | pg     | true
+7  | GAMA GT               | 2 | 100.0  | 8.0  | 30.0  | g/L    | true
+8  | Alkalna fosfataza     | 2 | 100.0  | 11.0 | 21.0  | g/L    | true
+9  | LDH                   | 2 | 200.0  | 2.2  | 5.6   | pg     | true
+10 | Amilaza               | 2 | 190.0  | 50.0 | 100.0 | pg     | true
+11 | Pankreasna Amilaza    | 2 | 600.0  | 10.0 | 22.0  | g/L    | true
+12 | Pankreasna Elastaza   | 2 | 3200.0 | 100.0| 230.0 | g/L    | true
+13 | Lipaza                | 2 | 600.0  | 45.0 | 130.0 | g/L    | true
+14 | Kisela fosfataza      | 2 | 300.0  | 0.5  | 0.9   | mm/h   | true
+15 | Holinesteraza         | 2 | 430.0  | 21.0 | 32.0  | pg     | true
+16 | Alfa 1 antitripsin    | 2 | 1200.0 | 32.0 | 70.0  | g/L    | true
+17 | Gvožđe                | 3 | 200.0  | 14.5 | 30.0  | g/L    | true
+18 | Vitamin B12           | 3 | 1000.0 | 5.0  | 10.0  | g/L    | true
+19 | Folna kiselina        | 3 | 1000.0 | 20.0 | 30.0  | pg     | true
+20 | Feritin               | 3 | 1000.0 | 14.0 | 22.0  | g/L    | true
+21 | Transferin            | 3 | 900.0  | 35.0 | 55.0  | pg     | true
+22 | Haptoglobin           | 3 | 950.0  | 32.0 | 66.0  | %      | true
+23 | Eritropoeitin         | 3 | 2000.0 | 18.0 | 32.0  | pg     | true
+24 | Methemoglobin         | 3 | 1200.0 | 10.0 | 20.0  | g/L    | true
+25 | Glukoza               | 4 | 100.0  | 2.2  | 6.7   | %      | true
+26 | Insulin               | 4 | 1000.0 | 4.0  | 32.0  | g/L    | true
+27 | ICA                   | 4 | 3300.0 | 0.7  | 3.5   | g/L    | true
+28 | Fruktozamiin          | 4 | 600.0  | 5.5  | 24.5  | g/L    | true
+29 | Proinsulin            | 4 | 2200.0 | 2.2  | 6.8   | g/L    | true
+30 | Sedimentacija         | 5 | 110.0  | 1.0  | 20.0  | mm/h   | true
+31 | Leukociti             | 5 | 220.0  | 7.8  | 21.3  | g/L    | true
+32 | Trombociti            | 5 | 220.0  | 2.4  | 8.2   | g/L    | true
+33 | Retikulociti          | 5 | 330.0  | 4.2  | 7.5   | pg     | true
+34 | KKS (5 dif)           | 5 | 450.0  | 9.0  | 21.4  | %      | true
+35 | Kompletan pregled     | 6 | 250.0  | 3.4  | 45.0  | fL     | true
+36 | Urinokultura          | 6 | 450.0  | 10.0 | 22.0  | g/L    | true
+37 | Amilaza               | 6 | 190.0  | 3.5  | 8.5   | g/L    | true
+38 | Test na trudnoću      | 6 | 350.0  | 2.5  | 14.5  | pg     | true
+39 | Melanin               | 6 | 300.0  | 1.2  | 3.5   | g/L    | true
+40 | Osmolalnost urina     | 6 | 600.0  | 2.2  | 6.7   | %      | true
+41 | Imunoelektroforeza    | 6 | 3300.0 | 3.2  | 9.2   | pg     | true
+42 | FSH                   | 7 | 650.0  | 4.3  | 12.5  | g/L    | true
+43 | LH                    | 7 | 650.0  | 3.2  | 9.5   | g/L    | true
+44 | Prolaktin             | 7 | 650.0  | 5.3  | 21.3  | %      | true
+45 | Progesteron           | 7 | 650.0  | 20.2 | 45.2  | g/L    | true
+46 | Estradiol             | 7 | 650.0  | 18.5 | 32.2  | g/L    | true
+47 | Testosteron           | 7 | 650.0  | 32.0 | 98.6  | pg     | true
+48 | Androstendion         | 7 | 1200.0 | 13.3 | 21.3  | g/L    | true
+49 | Estron                | 7 | 4200.0 | 13.5 | 32.2  | g/L    | true
+50 | Kalcijum ukupni       | 8 | 120.0  | 8.5  | 15.5  | pg     | true
+51 | Cink                  | 8 | 900.0  | 4.5  | 9.0   | g/L    | true
+52 | Bakar                 | 8 | 500.0  | 2.2  | 6.8   | g/L    | true
+53 | Litijum               | 8 | 600.0  | 2.2  | 9.1   | g/L    | true
+54 | Bikarbonati           | 8 | 300.0  | 5.6  | 15.5  | g/L    | true
+55 | Magnezijum            | 8 | 120.0  | 5.0  | 14.6  | %      | true
+56 | Natrijum              | 8 | 120.0  | 4.6  | 18.5  | g/L    | true
+57 | Kalijum               | 8 | 120.0  | 3.4  | 12.0  | fL     | true
+58 | Hloridi               | 8 | 120.0  | 22.0 | 34.0  | g/L    | true
+59 | Trigliceridi          | 9 | 200.0  | 50.0 | 100.0 | %      | true
+60 | Holesterol            | 9 | 200.0  | 22.0 | 45.0  | g/L    | true
+61 | Lipdni status         | 9 | 550.0  | 15.0 | 31.0  | pg     | true
+62 | Apo-A1                | 9 | 550.0  | 8.0  | 20.0  | g/L    | true
+63 | Apo-B                 | 9 | 550.0  | 12.0 | 34.0  | g/L    | true
+64 | Lipoprotein a (Lpa)   | 9 | 1000.0 | 14.0 | 21.0  | fL     | true
+65 | Masne kiseline(NEFA)  | 9 | 2700.0 | 23.0 | 65.0  | g/L    | true
+66 | Masne kiseline C22-C26| 9 | 8200.0 | 14.5 | 32.0  | g/L    | true
+67 | Toxoplasma IgM        | 10| 1500.0 | 15.5 | 45.0  | %      | true
+68 | Toxoplasma IgG        | 10| 1200.0 | 35.5 | 64.3  | g/L    | true
+69 | Rubella IgM           | 10| 1500.0 | 10.5 | 24.5  | fL     | true
+70 | Rubella IgG           | 10| 1200.0 | 32.3 | 65.3  | pg     | true
+71 | CMV IgM               | 10| 1500.0 | 10.5 | 21.3  | g/L    | true
+72 | CMV IgG               | 10| 1200.0 | 15.5 | 55.2  | g/L    | true
+73 | HBsAg                 | 10| 900.0  | 34.0 | 99.2  | fL     | true
+74 | Anti-Hbs              | 10| 1300.0 | 34.0 | 81.3  | g/L    | true
+75 | Anti-Hbc ukupni       | 10| 1300.0 | 3.2  | 10.2  | g/L    | true
+76 | Anti-HBc IgM (core)   | 10| 1500.0 | 1.8  | 7.8   | %      | true
+77 | HDV Ag                | 10| 1500.0 | 3.4  | 5.3   | g/L    | true
+78 | HDV ukupna At         | 10| 1500.0 | 5.6  | 20.2  | g/L    | true
+79 | HEV ukupna At         | 10| 120.0  | 4.3  | 10.0  | %      | true
+80 | HEV IgM               | 10| 1500.0 | 4.3  | 15.5  | pg     | true
+81 | HTLV I/II             | 10| 1600.0 | 30.0 | 62.2  | fL     | true
+82 | TORCH                 | 10| 12600.0| 0.5  | 2.4   | g/L    | true
+83 | Helicobact.py.IgA     | 11| 1200.0 | 1.2  | 6.3   | pg     | true
+84 | Helicobact.py.IgG     | 11| 1000.0 | 3.2  | 7.2   | g/L    | true
+85 | Chlamydia trach. IgM  | 11| 1200.0 | 3.4  | 9.1   | %      | true
+86 | Chlamydia pneum. IgM  | 11| 1300.0 | 5.3  | 12.7  | g/L    | true
+87 | Mycoplasma pneum. IgM | 11| 1300.0 | 5.5  | 20.0  | pg     | true
+88 | Borrelia bur. IgM     | 11| 1200.0 | 10.5 | 31.0  | g/L    | true
+89 | Brucella At           | 11| 1300.0 | 10.3 | 32.0  | g/L    | true
+90 | Candida IgG           | 11| 2000.0 | 15.0 | 33.2  | g/L    | true
+91 | Candida IgM           | 11| 2000.0 | 20.0 | 41.1  | pg     | true
+92 | Endoskopska biopsija  | 12| 2200.0 | 21.0 | 34.2  | %      | false
+93 | Biopsija kože         | 12| 2200.0 | 3.5  | 9.2   | g/L    | false
+94 | Мultiple biopsije     | 12| 2200.0 | 4.2  | 8.2   | %      | false
+95 | Perkutana biopsija    | 12| 2200.0 | 2.5  | 10.5  | g/L    | false
+96 | Citologija izliva     | 12| 1100.0 | 10.0 | 23.4  | pg     | false
+97 | Vitamin A             | 13| 2650.0 | 20.0 | 45.3  | fL     | true
+98 | Vitamin B1            | 13| 2400.0 | 17.0 | 31.3  | g/L    | true
+99 | Vitamin B6            | 13| 3650.0 | 18.0 | 34.3  | g/L    | true
+100| Vitamin B12           | 13| 1000.0 | 20.0 | 38.5  | g/L    | true
+101| Vitamin E             | 13| 2650.0 | 14.0 | 32.3  | g/L    | true
+102| Vitamin H             | 13| 2650.0 | 13.0 | 34.2  | g/L    | true
+103| Vitamin K1            | 13| 3100.0 | 2.3  | 8.2   | g/L    | true
+104| Vitamin C             | 13| 2100.0 | 10.0 | 22.0  | g/L    | true
+105| Steroidna analiza     | 7 | 1200.0 | 12.0 | 23.0  | g/L    | true

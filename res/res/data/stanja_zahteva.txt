@@ -1,0 +1,4 @@
+1 | početno stanje
+2 | stanje uzimanja
+3 | obrada
+4 | gotovo
